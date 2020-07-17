@@ -6,7 +6,7 @@
 
 を行ううえで、重要な４つの要素Catch、Appeal、Motivate、Suggestのの頭文字を取ってCAMSと表す。
 
-![マイポスト](https://user-images.githubusercontent.com/35683987/87760380-a1729e80-c84a-11ea-9b45-4b898177092b.png)
+![マイポスト (1)](https://user-images.githubusercontent.com/35683987/87760688-17770580-c84b-11ea-91b9-11f3d63abfc9.png)
 
 ## Catch
 - 冒頭の１〜３秒の１〜２カットで、ターゲットの心をつかみ見てもらう
