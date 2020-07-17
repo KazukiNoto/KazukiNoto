@@ -2,6 +2,8 @@
 
 動画制作を行ううえで、重要な４つの要素Catch、Appeal、Motivate、Suggestのの頭文字を取ってCAMSと表す。
 
+![man-holding-clapper-board-1117132](https://user-images.githubusercontent.com/35683987/87759455-4f7d4900-c849-11ea-90ac-c0ef338f630b.jpg)
+
 ## Catch
 - 冒頭の１〜３秒の１〜２カットで、ターゲットの心をつかみ見てもらう
 - 共感できる悩みや、課題に触れる内容を伝えて視聴に繋げる
