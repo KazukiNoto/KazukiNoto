@@ -40,7 +40,6 @@
       - MeCab
       - Keras(TensorFlow)
       - PyTorch
-    - 
 
   - use service
     - Microsoft Azure
