@@ -1,5 +1,10 @@
 # Kazuki Noto（能登一樹）
 
+[![My Skills](https://skillicons.dev/icons?i=py,cs,vue,js,html,md,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,github,githubactions,vscode,xd,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=twitter,instagram,discord,pr,au,ae,ps,ai)](https://skillicons.dev)
+
+
 ## 自己紹介
 
 大学で情報工学を３年学び中退、専門学校に入りなおし、就職しました
